@@ -23,7 +23,7 @@ Research student at the Faculty of Political and Social Sciences (Universidad Na
 - Statistics 
 - Engineering and industry 
 - Economics 
-- Computational Social Sciences.
+- Computational Social Sciences
 
 
 ### Languages and Tools
