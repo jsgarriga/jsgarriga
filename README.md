@@ -18,10 +18,10 @@ Research student at the Faculty of Political and Social Sciences (Universidad Na
 
 ### Interests
 
-- Data science 
+- Data Science 
 - Machine Learning 
 - Statistics 
-- Engineering and industry 
+- Engineering and Industry 
 - Economics 
 - Computational Social Sciences
 
