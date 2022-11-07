@@ -15,6 +15,12 @@
 
 - [Análisis de Graduados universitarios del sistema Araucano (2016-2018)](https://public.tableau.com/app/profile/jess.garriga/viz/GraduadosuniversitariosdelsistemaAraucano2016-2018/Tablero)
 
+<p float="left">
+<a href="https://public.tableau.com/app/profile/jess.garriga/">
+ <img alt="viz" src="src/dash.png" title="Dashboards" width="40%" style="display: block; margin: auto;">
+</a>
+</p>
+
 ### About me
 
 - 🔭 I’m currently working on building up my GitHub profile with data science projects.
