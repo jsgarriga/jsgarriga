@@ -26,7 +26,7 @@
 
 ### Background
 
-Research student at the Faculty of Political and Social Sciences (Universidad Nacional de Cuyo). Currently, I am doing my internship at Mundo Sur, performing the following tasks: media monitoring, statistical data management, quantitative and qualitative data analysis, report writing. These experiences made me find a new passion in data science. I started coding more often in order to improve my skills and working on predictive analytics projects on my own. I came up with my own ideas, designed solutions, and started implementing them proactively. 
+Research student at the Faculty of Political and Social Sciences (Universidad Nacional de Cuyo). Currently, I am doing my internship at Mundo Sur, performing the following tasks: media monitoring, statistical data management, quantitative and qualitative data analysis, report writing. These experiences made me find a new passion in Data Science and Machine Learning. I started coding more often in order to improve my skills and working on predictive analytics projects on my own. I came up with my own ideas, designed solutions, and started implementing them proactively. 
 
 ### Interests
 
