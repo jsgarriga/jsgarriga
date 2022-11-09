@@ -14,6 +14,7 @@
 ### Dataviz and Dashboards
 
 - [Análisis de Graduados universitarios del sistema Araucano (2016-2018)](https://public.tableau.com/app/profile/jess.garriga/viz/GraduadosuniversitariosdelsistemaAraucano2016-2018/Tablero)
+  * [Jupyter notebook de procesamiento de datos](https://github.com/jsgarriga/graduades-araucano/blob/main/tablas.ipynb)
 
 <p float="left">
 <a href="https://public.tableau.com/app/profile/jess.garriga/">
