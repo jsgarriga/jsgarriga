@@ -17,11 +17,15 @@
   * [Jupyter notebook de procesamiento de datos](https://github.com/jsgarriga/graduades-araucano/blob/main/tablas.ipynb)
 - [Data Storytelling de Estudios en salud mental - RENIS](https://public.tableau.com/app/profile/jess.garriga/viz/renis/infografia0/)
 
-<p float="left">
-<a href="https://public.tableau.com/app/profile/jess.garriga/">
- <img alt="viz" src="src/dash.png" title="Dashboards" width="40%" style="display: block; margin: auto;">
-</a>
-</p>
+
+ <div class="row">
+  <div class="column">
+    <img src="src/1.png" alt="Dashboard" style="width:40%">
+  </div>
+  <div class="column">
+    <img src="src/2.PNG" alt="Dashboard" style="width:40%">
+  </div>
+</div> 
 
 ### About me
 
