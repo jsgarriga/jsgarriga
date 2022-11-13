@@ -20,14 +20,10 @@
 <p float="left">
 <a href="https://public.tableau.com/app/profile/jess.garriga/">
  <img alt="viz" src="src/1.png" title="Dashboards" width="40%" style="display: block; margin: auto;">
+ <img alt="viz" src="src/2.PNG" title="Dashboards" width="35%" height="35%" style="display: block; margin: auto;">
 </a>
 </p>
 
-<p float="left">
-<a href="https://public.tableau.com/app/profile/jess.garriga/">
- <img alt="viz" src="src/2.PNG" title="Dashboards" width="40%" style="display: block; margin: auto;">
-</a>
-</p>
 
 ### About me
 
@@ -40,7 +36,7 @@
 
 ### Background
 
-Research student at the Faculty of Political and Social Sciences (Universidad Nacional de Cuyo). Currently, I am doing my internship at Mundo Sur, performing the following tasks: media monitoring, statistical data management, quantitative and qualitative data analysis, report writing. These experiences made me find a new passion in Data Science and Machine Learning. I started coding more often in order to improve my skills and working on predictive analytics projects on my own. I came up with my own ideas, designed solutions, and started implementing them proactively. 
+Research student at the Faculty of Political and Social Sciences (Universidad Nacional de Cuyo). I did my internship at Mundo Sur, carrying out the following tasks: media monitoring, statistical data management, quantitative and qualitative data analysis, report writing. These experiences made me find a new passion in Computational Sciences, Data Science and Machine Learning. I started coding more often in order to improve my skills and working on predictive analytics projects on my own. I came up with my own ideas, designed solutions, and started implementing them proactively. 
 
 ### Interests
 
