@@ -44,8 +44,8 @@ Research student at the Faculty of Political and Social Sciences (Universidad Na
 - Social Data Analysis
 - Data Science 
 - Machine Learning 
-- Statistics 
-- Engineering and Industry 
+- Statistics and Analytics
+- Engineering, Industry and IT
 - Economics 
 - Computational Social Sciences
 
