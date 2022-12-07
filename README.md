@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jess</h1>
-
 <!--
 **jsgarriga/jsgarriga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,27 +25,21 @@
 
 ### About me
 
-- 🔭 I’m currently working on building up my GitHub profile with data science projects.
-- 🌱 I’m learning Exploratory Data Analysis (EDA), Prediction (Regression, Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).
-- 👯 I’m looking to collaborate on any of the presented data-science projects or open to other projects.
-- 🤔 I’m looking for help with front end applications, ideally displaying the data-science results on a website.
+- 🌱 I’m applying Exploratory Data Analysis (EDA), Prediction (Regression, Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).
+- 👯 I’m looking to collaborate on any of the presented data-science projects or computational sociology projects.
 - 💬 Ask me anything data-science related, and I'll be happy to help you out.
-- ⚡ Fun fact: I enjoy drawing when I'm not coding.
 
 ### Background
 
-Research student at the Faculty of Political and Social Sciences (Universidad Nacional de Cuyo). I did my internship at Mundo Sur, carrying out the following tasks: media monitoring, statistical data management, quantitative and qualitative data analysis, report writing. These experiences made me find a new passion in Computational Sciences, Data Science and Machine Learning. I started coding more often in order to improve my skills and working on predictive analytics projects on my own. I came up with my own ideas, designed solutions, and started implementing them proactively. 
+Research student at the Faculty of Political and Social Sciences (Universidad Nacional de Cuyo). I did my internship at Mundo Sur, carrying out the following tasks: media monitoring, statistical data management, quantitative and qualitative data analysis, report writing. These experiences made me find a new passion in Computer Science and Machine Learning. I started coding more often in order to improve my skills and working on predictive analytics projects on my own. I came up with my own ideas, designed solutions, and started implementing them proactively. 
 
 ### Interests
 
-- Sociology
-- Social Data Analysis
-- Data Science 
+- Economic Sociology
 - Machine Learning 
+- Data Science and Social Data Analysis (quantitative and qualitative)
 - Statistics and Analytics
 - Engineering, Industry and IT
-- Economics 
-- Computational Social Sciences
 
 ### Contact me
 
