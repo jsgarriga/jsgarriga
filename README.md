@@ -36,6 +36,8 @@ Research student at the Faculty of Political and Social Sciences (Universidad Na
 ### Interests
 
 - Economic Sociology
+- Social and Economic Networks, models and analysis
+- Computer Science
 - Machine Learning 
 - Data Science and Social Data Analysis (quantitative and qualitative)
 - Statistics and Analytics
