@@ -3,7 +3,7 @@
 
 -->
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:garrigajess98@gmail.com)](mailto:garrigajess98@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-jessgarriga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jess-garriga-b8bb95240/)](https://www.linkedin.com/in/jess-garriga-b8bb95240/) [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jgarriga.netlify.app/)](https://jgarriga.netlify.app/) [![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=InfluxDB&logoColor=white&link=https://public.tableau.com/app/profile/jess.garriga/)](https://public.tableau.com/app/profile/jess.garriga/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:garrigajess98@gmail.com)](mailto:garrigajess98@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-jessgarriga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jess-garriga-b8bb95240/)](https://www.linkedin.com/in/jess-garriga-b8bb95240/) [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jgarriga.netlify.app/)](https://jgarriga.netlify.app/) [![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=InfluxDB&logoColor=white&link=https://public.tableau.com/app/profile/jess.garriga/)](https://public.tableau.com/app/profile/jess.garriga/) [![Quarto](https://img.shields.io/badge/-Quarto-blue?style=flat&logo=InfluxDB&logoColor=white&link=https://jgarriga.quarto.pub/)](https://jgarriga.quarto.pub/)
 
 
 <p float="left">
@@ -14,6 +14,9 @@
 </a>
 </p>
 
+### ML & Data Science
+
+- [Agrupación de datos mediante K Means: aprendizaje no supervisado para la detección de billetes falsos con Machine Learning](https://jgarriga.quarto.pub/kmeans/)
 
 ### Dataviz and Dashboards
 
