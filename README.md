@@ -14,9 +14,13 @@
 </a>
 </p>
 
-### ML & Data Science
+### ML & Data Science Projects
 
 - [Agrupación de datos mediante K Means: aprendizaje no supervisado para la detección de billetes falsos con Machine Learning](https://jgarriga.quarto.pub/kmeans/)
+
+### Reports and Data Analysis
+
+- [Segundo Informe Anual del “Monitor de Crímenes de Odio LGBTTTIQ+ Marielle Franco”](https://mundosur.org/wp-content/uploads/2022/10/Segundo_Informe_Monitor_Marielle_Franco.pdf)
 
 ### Dataviz and Dashboards
 
