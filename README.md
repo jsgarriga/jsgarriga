@@ -3,29 +3,13 @@
 
 -->
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:garrigajess98@gmail.com)](mailto:garrigajess98@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-jessgarriga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jess-garriga-b8bb95240/)](https://www.linkedin.com/in/jess-garriga-b8bb95240/) [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jgarriga.netlify.app/)](https://jgarriga.netlify.app/) [![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=InfluxDB&logoColor=white&link=https://public.tableau.com/app/profile/jess.garriga/)](https://public.tableau.com/app/profile/jess.garriga/) [![Quarto](https://img.shields.io/badge/-Quarto-blue?style=flat&logo=InfluxDB&logoColor=white&link=https://jgarriga.quarto.pub/)](https://jgarriga.quarto.pub/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:garrigajess98@gmail.com)](mailto:garrigajess98@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-jessgarriga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jess-garriga/)](https://www.linkedin.com/in/jess-garriga/) [![Website Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jgarriga.netlify.app/)](https://jgarriga.netlify.app/) [![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=InfluxDB&logoColor=white&link=https://public.tableau.com/app/profile/jess.garriga/)](https://public.tableau.com/app/profile/jess.garriga/) [![Quarto](https://img.shields.io/badge/-Quarto-blue?style=flat&logo=InfluxDB&logoColor=white&link=https://jgarriga.quarto.pub/)](https://jgarriga.quarto.pub/)
 
+### Contact
 
-### About me
+To reach me, please contact me on Linkedin or email me.
 
-- Programmer, Sociologist and Specialist in Economics from Argentina 🇦🇷
-- 🌱 I’m applying Exploratory Data Analysis (EDA), Prediction (Regression, Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).
-- 👯 I’m looking to collaborate on any of the presented data-science projects or computational sociology projects.
-- 💬 Ask me anything data-science related, and I'll be happy to help you out.
-
-### Contact me
-
-To reach me, please contact me on Linkedin or email me. You can also visit my website!
-
-[Email](mailto:garrigajess98@gmail.com) | [Portfolio](https://jgarriga.netlify.app/) | [Linkedin](https://www.linkedin.com/in/jess-garriga-b8bb95240/?locale=en_US)
-
-
-<p float="left">
-<a href="https://public.tableau.com/app/profile/jess.garriga/">
- <img alt="viz" src="src/2.PNG" title="Dashboards" width="65%" style="display: block; margin: auto;">
-</a>
-</p>
-
+[Email](mailto:garrigajess98@gmail.com) | [Linkedin](https://www.linkedin.com/in/jess-garriga-b8bb95240/?locale=en_US)
 
 ### Tools & Skills
 
@@ -46,19 +30,3 @@ To reach me, please contact me on Linkedin or email me. You can also visit my we
 - [Análisis de Graduados universitarios del sistema Araucano (2016-2018)](https://public.tableau.com/app/profile/jess.garriga/viz/GraduadosuniversitariosdelsistemaAraucano2016-2018/Tablero)
   * [Jupyter notebook de procesamiento de datos](https://github.com/jsgarriga/graduades-araucano/blob/main/tablas.ipynb)
 - [Data Storytelling de Estudios en salud mental - RENIS (2018-2022)](https://public.tableau.com/app/profile/jess.garriga/viz/renis/infografia0/)
-
-
-### Background
-
-Research student at the Faculty of Political and Social Sciences (Universidad Nacional de Cuyo). I did my internship at Mundo Sur, carrying out the following tasks: media monitoring, statistical data management, quantitative and qualitative data analysis, report writing. These experiences made me find a new passion in Computer Science and Machine Learning. I started coding more often in order to improve my skills and working on predictive analytics projects on my own. I came up with my own ideas, designed solutions, and started implementing them proactively. 
-
-### Interests
-
-- Economic Sociology
-- Social and Economic Networks, models and analysis
-- Computer Science
-- Machine Learning 
-- Data Science and Social Data Analysis (quantitative and qualitative)
-- Statistics and Analytics
-- Engineering, Industry and IT
-
