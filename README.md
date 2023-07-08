@@ -7,7 +7,7 @@
 
 ### Contact
 
-To reach me, please contact me on Linkedin or email me.
+To reach me, please connect with me on Linkedin or send me an email.
 
 [Email](mailto:garrigajess98@gmail.com) | [Linkedin](https://www.linkedin.com/in/jess-garriga-b8bb95240/?locale=en_US)
 
